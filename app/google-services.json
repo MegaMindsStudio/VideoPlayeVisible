@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1074627163892",
+    "firebase_url": "https://videoplaylist-8703b-default-rtdb.firebaseio.com",
+    "project_id": "videoplaylist-8703b",
+    "storage_bucket": "videoplaylist-8703b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1074627163892:android:02612473bcad0e8f7950a1",
+        "android_client_info": {
+          "package_name": "com.playverse.video.video4kwallapper.locksceenwallpaper.setasvideo.hdbackground.videodummyproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1074627163892-0o5g4irer4rs4olq6a59rapl5anror2r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDf9zr3_BfUwtuHp0VXIFD6olkxEFUGkZ4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1074627163892-0o5g4irer4rs4olq6a59rapl5anror2r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
